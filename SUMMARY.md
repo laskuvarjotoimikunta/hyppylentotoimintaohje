@@ -36,7 +36,7 @@
    * [Tarkastus](lennon_eri_vaiheet/tarkastus)
    * [Käynnistys ja rullaus](lennon eri vaiheet/kaynnistys_ja_rullaus)
    * [Lentoonlähtö ja sen mahdollinen keskeytys](lennon eri vaiheet/lentoonlahto)
-   * [Nousu](lennon eri vaiheet/nousu)
+   * [Nousu](lennon eri vaiheet/nousu.md)
    * [Lentomenetelmät](lennon eri vaiheet/lentomenetelmat)
    * [Ilma-aluksen miehistön ja hyppääjien yhteistoiminta](lennon eri vaiheet/yhteistoiminta)
    * [Linjan lentäminen](lennon eri vaiheet/linjan_lentaminen)

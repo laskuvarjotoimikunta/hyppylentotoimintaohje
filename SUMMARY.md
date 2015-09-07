@@ -2,6 +2,7 @@
 
 * [Johdanto](johdanto.md)
 * [Vaatimukset](vaatimukset/index.md)
+  * [Lentäjän kelpoisuus](vaatimukset/kelpoisuus.md)
 * [Vastuut](vastuut/index.md)
 * [Hyppylentotoiminnan perusteet](perusteet/index.md)
 * [Lentoon valmistautuminen](valmistautuminen/index.md)

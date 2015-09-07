@@ -34,7 +34,7 @@
    * [Ilmatilavaraukset ja niiden purkaminen](valmistautuminen/ilmatilavaraukset)
 * [Lennon eri vaiheet](lennon_eri_vaiheet/index)
    * [Tarkastus](lennon_eri_vaiheet/tarkastus)
-   * [Käynnistys ja rullaus](lennon eri vaiheet/kaynnistys_ja_rullaus)
+   * [Käynnistys ja rullaus](lennon eri vaiheet/kaynnistysja_rullaus.md)
    * [Lentoonlähtö ja sen mahdollinen keskeytys](lennon eri vaiheet/lentoonlahto.md)
    * [Nousu](lennon eri vaiheet/nousu.md)
    * [Lentomenetelmät](lennon eri vaiheet/lentomenetelmat)

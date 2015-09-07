@@ -1,0 +1,2 @@
+
+## Vaara- ja poikkeustilanteet

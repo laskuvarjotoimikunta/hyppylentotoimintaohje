@@ -33,7 +33,7 @@
    * [Muu liikenne](valmistautuminen/muu_liikenne)
    * [Ilmatilavaraukset ja niiden purkaminen](valmistautuminen/ilmatilavaraukset)
 * [Lennon eri vaiheet](lennon_eri_vaiheet/index)
-   * [Tarkastus](lennon_eri_vaiheet/tarkastus)
+   * [Tarkastus](lennon_eri_vaiheet/tarkastus.md)
    * [Käynnistys ja rullaus](lennon eri vaiheet/kaynnistysja_rullaus.md)
    * [Lentoonlähtö ja sen mahdollinen keskeytys](lennon eri vaiheet/lentoonlahto.md)
    * [Nousu](lennon eri vaiheet/nousu.md)

@@ -15,10 +15,43 @@
     * [Yhden lentäjän koneet](vaatimukset/lentajan_jaksaminen-1pilot)
     * [Kahden lentäjän koneet](vaatimukset/lentajan_jaksaminen-2pilot)
 * [Vastuut](vastuut/index)
+  * [Lentäjä]
+  * [Hyppääjä]
+    * [Oppilas]
+    * [Lisenssihyppääjä]
+    * [Kouluttaja]
+    * [Pokanvanhin]
 * [Hyppylentotoiminnan perusteet](perusteet/index)
+  * [Erilaiset lentokoneet ja niiden käyttö hyppytoiminnassa]
+  * [Massa- ja tasapainolaskelma, sakkaus, hidaslento]
+  * [Koneen kuormaus]
+    * [Hyppääjien sijoittuminen koneessa]
+    * [Polttoaineasiat]
 * [Lentoon valmistautuminen](valmistautuminen/index)
+  * [Checklistit]
+  * [Pilotin ohjeistaminen]
+  * [Muu liikenne]
+  * [Ilmatilavaraukset ja niiden purkaminen]
 * [Lennon eri vaiheet](lennon_eri_vaiheet/index)
+  * [Tarkastus]
+  * [Käynnistys ja rullaus]
+  * [Lentoonlähtö ja sen mahdollinen keskeytys]
+  * [Nousu]
+  * [Lentomenetelmät]
+  * [Ilma-aluksen miehistön ja hyppääjien yhteistoiminta]
+  * [Linjan lentäminen]
+    * [Linjalla toimiminen/koneessa liikkuminen]
+    * [Linjan keskeyttäminen ja uuden linjan ottaminen]
+    * [Uloshyppy (eri tilanteissa)]
+    * [Välikorkeudet]
+  * [Hyppääjien huomioiminen vapaapudotuksessa]
+  * [Laskeutuminen]
+    * [Tyhjällä koneella]
+    * [Hyppääjät kyydissä]
 * [Hyppylentotoiminnan erikoistapaukset](erikoistapaukset/index)
+  * [Tapahtumat]
+  * [Puljalentäminen]
+  * [Vierailevat hyppääjät]
 * [Vaara- ja poikkeustilanteet](vaara-ja-poikkeustilanteet/index)
 * [Lentäjän koulutus](koulutus/index)
 * [Hyvät käytännöt](hyvat_kaytannot/index)

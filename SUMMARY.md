@@ -2,7 +2,11 @@
 
 * [Johdanto](johdanto.md)
 * [Vaatimukset](vaatimukset/index.md)
-  * [Lentäjän kelpoisuus](vaatimukset/kelpoisuus.md)
+  * [Lentäjän kelpoisuus](vaatimukset/lentajan_kelpoisuus.md)
+  * [Hyppykoneen kelpoisuus](vaatimukset/hyppykoneen_kelpoisuus.md)
+  * [Lentäjän jaksaminen ja lepotauot]
+    * [Yhden lentäjän koneet]
+    * [Kahden lentäjän koneet]
 * [Vastuut](vastuut/index.md)
 * [Hyppylentotoiminnan perusteet](perusteet/index.md)
 * [Lentoon valmistautuminen](valmistautuminen/index.md)

@@ -28,10 +28,10 @@
     * [Hyppääjien sijoittuminen koneessa]
     * [Polttoaineasiat]
 * [Lentoon valmistautuminen](valmistautuminen/index)
-  * [Checklistit]
-  * [Pilotin ohjeistaminen]
-  * [Muu liikenne]
-  * [Ilmatilavaraukset ja niiden purkaminen]
+  * [Checklistit](valmistautuminen/checklist)
+  * [Pilotin ohjeistaminen](valmistautuminen/pilotin_ohjeistaminen)
+  * [Muu liikenne](valmistautuminen/muu_liikenne)
+  * [Ilmatilavaraukset ja niiden purkaminen](valmistautuminen/ilmatilavaraukset)
 * [Lennon eri vaiheet](lennon_eri_vaiheet/index)
   * [Tarkastus](lennon_eri_vaiheet/tarkastus)
   * [Käynnistys ja rullaus](lennon eri vaiheet/kaynnistys_ja_rullaus)

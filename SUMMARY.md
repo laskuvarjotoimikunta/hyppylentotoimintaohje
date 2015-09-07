@@ -4,9 +4,9 @@
 * [Vaatimukset](vaatimukset/index.md)
   * [Lentäjän kelpoisuus](vaatimukset/lentajan_kelpoisuus.md)
   * [Hyppykoneen kelpoisuus](vaatimukset/hyppykoneen_kelpoisuus.md)
-  * [Lentäjän jaksaminen ja lepotauot]
-    * [Yhden lentäjän koneet]
-    * [Kahden lentäjän koneet]
+  * [Lentäjän jaksaminen ja lepotauot](vaatimukset/lentajan_jaksaminen.md)
+    * [Yhden lentäjän koneet](vaatimukset/lentajan_jaksaminen-1pilot.md)
+    * [Kahden lentäjän koneet](vaatimukset/lentajan_jaksaminen-2pilot.md)
 * [Vastuut](vastuut/index.md)
 * [Hyppylentotoiminnan perusteet](perusteet/index.md)
 * [Lentoon valmistautuminen](valmistautuminen/index.md)

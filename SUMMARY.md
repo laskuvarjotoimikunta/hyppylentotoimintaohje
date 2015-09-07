@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Johdanto](johdanto)
 * [Vaatimukset](vaatimukset/index)
   * [Lentäjän kelpoisuus](vaatimukset/lentajan_kelpoisuus)
@@ -13,7 +12,7 @@
     * [Lentokelpoisuustodistus/vakuutukset](vaatimukset/hyppykoneen_kelpoisuus-paperit)
     * [Tyyppihyväksyntä](vaatimukset/hyppykoneen_kelpoisuus-tyyppihyvaksynta)
   * [Lentäjän jaksaminen ja lepotauot](vaatimukset/lentajan_jaksaminen)
-  * [Yhden lentäjän koneet](vaatimukset/lentajan_jaksaminen-1pilot)
+    * [Yhden lentäjän koneet](vaatimukset/lentajan_jaksaminen-1pilot)
     * [Kahden lentäjän koneet](vaatimukset/lentajan_jaksaminen-2pilot)
 * [Vastuut](vastuut/index)
 * [Hyppylentotoiminnan perusteet](perusteet/index)

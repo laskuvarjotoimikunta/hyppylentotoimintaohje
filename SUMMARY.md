@@ -1,6 +1,6 @@
 # Summary
 
-* [Johdanto](johdanto)
+* [Johdanto](README.md)
 * [Vaatimukset](vaatimukset/index)
   * [Lentäjän kelpoisuus](vaatimukset/lentajan_kelpoisuus)
     * [Lupa- ja muut asiakirjat](vaatimukset/lentajan_kelpoisuus-asiakirjat)

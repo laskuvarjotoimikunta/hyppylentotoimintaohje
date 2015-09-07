@@ -68,7 +68,9 @@
 * [Lentäjän koulutus](koulutus/index)
   * [Miten pilotti koulutetaan](koulutus/pilotin_koulutus)
   * [Miten pilotti voi toimia edistääkseen hyppytoimintaa](koulutus/tehokkuus)
-  * [Kerhokohtaiset
+  * [Kerhokohtaiset kokemusvaatimukset](koulutus/kerhokohtaiset_kokemusvaatimukset)
 * [Hyvät käytännöt](hyvat_kaytannot/index)
+  * [Turvallisuuspaiva](hyvat_kaytannot/turvallisuuspaiva)
+  * [Koulutuskertaukset](hyvat_kaytannot/koulu)
 * [Huomioita](huomioita)
 

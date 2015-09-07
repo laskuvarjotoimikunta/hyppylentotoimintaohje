@@ -4,7 +4,7 @@
 * [Johdanto](johdanto)
 * [Vaatimukset](vaatimukset/index)
    * [Lentäjän kelpoisuus](vaatimukset/lentajan_kelpoisuus.md)
-   * [Hyppykoneen kelpoisuus](vaatimukset/hyppykoneen_kelpoisuus)
+   * [Hyppykoneen kelpoisuus](vaatimukset/hyppykoneen_kelpoisuus.md)
    * [Lentäjän jaksaminen ja lepotauot](vaatimukset/lentajan_jaksaminen)
        * [Yhden lentäjän koneet](vaatimukset/lentajan_jaksaminen-1pilot)
        * [Kahden lentäjän koneet](vaatimukset/lentajan_jaksaminen-2pilot)

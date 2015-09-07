@@ -2,7 +2,7 @@
 
 * [Johdanto](README.md)
 * [Vaatimukset](vaatimukset/index.md)
-   * [Lentäjän kelpoisuus](vaatimukset/lentajan_kelpoisuus)
+   * [Lentäjän kelpoisuus](vaatimukset/lentajankelpoisuus.md)
        * [Lupa- ja muut asiakirjat](vaatimukset/lentajan_kelpoisuus-asiakirjat)
        * [Lentotuntivaatimukset](vaatimukset/lentajan_kelpoisuus-lentotuntivaatimukset)
        * [Terveydentilavaatimukset](vaatimukset/lentajan_kelpoisuus-terveydentilavaatimukset)

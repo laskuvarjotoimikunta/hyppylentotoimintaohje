@@ -66,6 +66,9 @@
   * [Vaaratilanneilmoitus](vaara-ja-poikkeustilanteet/vaaratilannilmoitus)
   * [Lentokoneella tehtävä etsintä](vaara-ja-poikkeustilanteet/etsinta)
 * [Lentäjän koulutus](koulutus/index)
+  * [Miten pilotti koulutetaan](koulutus/pilotin_koulutus)
+  * [Miten pilotti voi toimia edistääkseen hyppytoimintaa](koulutus/tehokkuus)
+  * [Kerhokohtaiset
 * [Hyvät käytännöt](hyvat_kaytannot/index)
 * [Huomioita](huomioita)
 

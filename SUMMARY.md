@@ -33,7 +33,7 @@
   * [Muu liikenne]
   * [Ilmatilavaraukset ja niiden purkaminen]
 * [Lennon eri vaiheet](lennon_eri_vaiheet/index)
-  * [Tarkastus]
+  * [Tarkastus](lennon_eri_vaiheet/tarkastus)
   * [Käynnistys ja rullaus]
   * [Lentoonlähtö ja sen mahdollinen keskeytys]
   * [Nousu]

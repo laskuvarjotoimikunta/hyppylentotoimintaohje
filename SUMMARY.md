@@ -15,18 +15,18 @@
     * [Yhden lentäjän koneet](vaatimukset/lentajan_jaksaminen-1pilot)
     * [Kahden lentäjän koneet](vaatimukset/lentajan_jaksaminen-2pilot)
 * [Vastuut](vastuut/index)
-  * [Lentäjä]
-  * [Hyppääjä]
-    * [Oppilas]
-    * [Lisenssihyppääjä]
-    * [Kouluttaja]
-    * [Pokanvanhin]
+  * [Lentäjä](vastuut/lentaja)
+  * [Hyppääjä](vastuut/hyppaaja)
+    * [Oppilas](vastuut/hyppaaja-oppilas)
+    * [Lisenssihyppääjä](vastuut/hyppaaja-lisenssihyppaaja)
+    * [Kouluttaja](vastuut/hyppaaja-kouluttaja)
+    * [Pokanvanhin](vastuut/hyppaaja-pokanvanhin)
 * [Hyppylentotoiminnan perusteet](perusteet/index)
-  * [Erilaiset lentokoneet ja niiden käyttö hyppytoiminnassa]
-  * [Massa- ja tasapainolaskelma, sakkaus, hidaslento]
-  * [Koneen kuormaus]
-    * [Hyppääjien sijoittuminen koneessa]
-    * [Polttoaineasiat]
+  * [Erilaiset lentokoneet ja niiden käyttö hyppytoiminnassa](perusteet/erilaiset_lentokoneet)
+  * [Massa- ja tasapainolaskelma, sakkaus, hidaslento](perusteet/massalaskelma)
+  * [Koneen kuormaus](perusteet/koneen_kuormaus)
+    * [Hyppääjien sijoittuminen koneessa](perusteet/koneen_kuormaus-hyppaajien_sijoittuminen)
+    * [Polttoaineasiat](perusteet/polttoaineasiat)
 * [Lentoon valmistautuminen](valmistautuminen/index)
   * [Checklistit](valmistautuminen/checklist)
   * [Pilotin ohjeistaminen](valmistautuminen/pilotin_ohjeistaminen)
@@ -49,9 +49,9 @@
     * [Tyhjällä koneella](lennon eri vaiheet/laskeutuminen_tyhja_kone)
     * [Hyppääjät kyydissä](lennon eri vaiheet/laskeutuminen_hyppaajat_kyydissa)
 * [Hyppylentotoiminnan erikoistapaukset](erikoistapaukset/index)
-  * [Tapahtumat]
-  * [Puljalentäminen]
-  * [Vierailevat hyppääjät]
+  * [Tapahtumat](erikoistapaukset/tapahtumat)
+  * [Puljalentäminen](erikoistapaukset/pulja)
+  * [Vierailevat hyppääjät](erikoistapaukset/vierailijat)
 * [Vaara- ja poikkeustilanteet](vaara-ja-poikkeustilanteet/index)
 * [Lentäjän koulutus](koulutus/index)
 * [Hyvät käytännöt](hyvat_kaytannot/index)

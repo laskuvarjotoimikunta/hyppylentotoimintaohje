@@ -48,7 +48,7 @@ Noin.
 
 Kirjoittaminen tapahtuu ns. markdown -syntaksilla. Käytännössä voit kirjoittaa tekstiä kuten millä tahansa tekstieditorilla ja käyttää ylhäältä toimintopalkeista tekstinmuotoilutoimintoja.
 
-Mikäli kuitenkin haluat olla vähän näppärämpi, niin lue alkuun [markdown](https://ukk.kapsi.fi/markdown_help/)-ohje. Kyseinen ohje on perusohje suomeksi, [internetistä](https://www.google.fi/?gws_rd=ssl#safe=off&q=markdown+syntax) löytyy paljon ohjeita lisää. Helppoa se on.
+Mikäli kuitenkin haluat olla vähän näppärämpi, niin lue alkuun [markdown](https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md)-ohje. Kyseinen ohje on perusohje suomeksi, [internetistä](https://www.google.fi/?gws_rd=ssl#safe=off&q=markdown+syntax) löytyy paljon ohjeita lisää. Helppoa se on.
 
 ## Haarakäytännöt
 

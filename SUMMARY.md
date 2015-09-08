@@ -71,7 +71,7 @@
    * [Miten pilotti voi toimia edistääkseen hyppytoimintaa](koulutus/tehokkuus)
    * [Kerhokohtaiset kokemusvaatimukset](koulutus/kerhokohtaiset_kokemusvaatimukset)
    * [Koneen hyppyvarustus](koulutus/koneen_hyppyvarustus)
-* [Hyvät käytännöt](hyvat_kaytannot/index)
+* [Hyvät käytännöt](hyvat_kaytannot/index.md)
    * [Turvallisuuspaiva](hyvat_kaytannot/turvallisuuspaiva.md)
    * [Koulutuskertaukset](hyvat_kaytannot/koulutuskertaukset)
 * [Huomioita](huomioita)

@@ -18,3 +18,4 @@ Toimintaohjeet:
 4. Uusi branch on nyt luotu, näet että se on valittuna branch-valikossa
 5. Tee muutokset haluamaasi kohtiin
 6. Kun olet sitä mieltä, että tekemäsi osuus on nyt valmis, yhdistä (merge) se master-branchiin
+

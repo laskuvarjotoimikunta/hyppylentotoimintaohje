@@ -72,7 +72,7 @@
    * [Kerhokohtaiset kokemusvaatimukset](koulutus/kerhokohtaiset_kokemusvaatimukset)
    * [Koneen hyppyvarustus](koulutus/koneen_hyppyvarustus)
 * [Hyvät käytännöt](hyvat_kaytannot/index)
-   * [Turvallisuuspaiva](hyvat_kaytannot/turvallisuuspaiva)
+   * [Turvallisuuspaiva](hyvat_kaytannot/turvallisuuspaiva.md)
    * [Koulutuskertaukset](hyvat_kaytannot/koulutuskertaukset)
 * [Huomioita](huomioita)
 * [Kirjoittajat](kirjoittajat.md)

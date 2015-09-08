@@ -74,6 +74,7 @@
 * [Hyvät käytännöt](hyvat_kaytannot/index.md)
    * [Turvallisuuspaiva](hyvat_kaytannot/turvallisuuspaiva.md)
    * [Koulutuskertaukset](hyvat_kaytannot/koulutuskertaukset)
+   * [Muut hyvät käytännöt](hyvat_kaytannot/muut)
 * [Huomioita](huomioita)
 * [Kirjoittajat](kirjoittajat.md)
 

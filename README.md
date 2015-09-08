@@ -60,6 +60,14 @@ Toimintaohjeet:
 5. Tee muutokset haluamaasi kohtiin
 6. Kun olet sitä mieltä, että tekemäsi osuus on nyt valmis, yhdistä (merge) se master-branchiin - vain ne tiedostot (artikkelit), johon olet tehnyt muutoksia, päivittyvät masteriin
 
+## Kirjoitusohjeita/vinkkejä
+
+* Käytä tiivistä kieltä
+* Käytä kieltä, joka ymmärrettävää
+* Älä kirjoita "hauki on kala", kirjoita mieluummin siten, että lukijalle jää myös mietittävää
+* Älä julista asioita faktoina, mikäli ne eivät sellaisia ole
+* Kerro hyviä käytäntöjä esimerkkeinä toimintatavoista
+
 # Lisensointi
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)

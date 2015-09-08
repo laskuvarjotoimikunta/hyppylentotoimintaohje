@@ -25,6 +25,7 @@ Gitbook.comiin kirjaudutaan Githubin tunnuksilla. Käy siis tekemässä ensin Gi
 Nyt sinulle on luotu Github-tunnus.
 
 Seuraavaksi luodaan sinulle Gitbook.com-tunnus:
+
 1. Mene osoitteeseen https://www.gitbook.com
 2. Paina linkkiä "or login with your GitHub account"
 3. Paina Authorize application
@@ -51,6 +52,7 @@ Mikäli kuitenkin haluat olla vähän näppärämpi, niin lue alkuun [markdown](
 Jokainen muutos tehdään omaan haaraan (branch). Master-haara on se haara, joka julkaistaan lopulta sitten ulos.
 
 Toimintaohjeet:
+
 1. Klikkaa branch-valikosta:<br>![branch](Screenshot 2015-09-08 10.34.20.png)
 2. Valitse New Branch
 3. Anna branchille kuvaava nimi

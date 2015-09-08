@@ -5,16 +5,14 @@ Tämä on Laskuvarjotoimikunnan hyppylentotoimintatyöryhmän ohjeistustyö.
 
 Uusin versio on luettavissa aina osoitteessa https://www.gitbook.com/book/laskuvarjotoimikunta/hyppylentotoimintaohje/
 
-Muutoksien tekeminen
 ======
 
-Kun haluat tehdä muutoksia, voit tehdä ne Gitbook.comin editorilla.
 
 ## Yleistä
 
 Julkaisutyökalu on Gitbook. Se perustuu versionhallintatyökaluun nimeltä Git. Varsinainen data on tallennettuna Githubissa. Sinun ei tässä vaiheessa tarvitse ymmärtää kokonaisuutta, seuraa vain ohjeita.
 
-## Tunnusten luominen
+## Tunnusten luominen ja muutosten tekeminen
 
 Gitbook.comiin kirjaudutaan Githubin tunnuksilla. Käy siis tekemässä ensin Githubiin itsellesi tunnus:
 

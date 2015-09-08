@@ -70,7 +70,7 @@
    * [Miten pilotti koulutetaan](koulutus/pilotin_koulutus)
    * [Miten pilotti voi toimia edistääkseen hyppytoimintaa](koulutus/tehokkuus)
    * [Kerhokohtaiset kokemusvaatimukset](koulutus/kerhokohtaiset_kokemusvaatimukset)
-   * [Koneen hyppyvarustus](koulutus/koneen_hyppyvar
+   * [Koneen hyppyvarustus](koulutus/koneen_hyppyvarustus)
 * [Hyvät käytännöt](hyvat_kaytannot/index)
    * [Turvallisuuspaiva](hyvat_kaytannot/turvallisuuspaiva)
    * [Koulutuskertaukset](hyvat_kaytannot/koulutuskertaukset)

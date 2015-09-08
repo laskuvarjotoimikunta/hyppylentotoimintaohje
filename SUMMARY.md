@@ -76,5 +76,6 @@
    * [Koulutuskertaukset](hyvat_kaytannot/koulutuskertaukset)
    * [Muut hyvät käytännöt](hyvat_kaytannot/muut.md)
 * [Huomioita](huomioita)
+* [Lisää luettavaa](linkit)
 * [Kirjoittajat](kirjoittajat.md)
 

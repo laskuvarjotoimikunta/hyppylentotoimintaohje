@@ -7,7 +7,7 @@ Tämä on Laskuvarjotoimikunnan hyppylentotoimintatyöryhmän ohjeistustyö.
 Muutoksien tekeminen
 ======
 
-Kun haluat tehdä muutoksia, tee ne Gitbook.comin editorilla.
+Kun haluat tehdä muutoksia, tee ne Gitbook.comin editorilla. Mikäli sinulla ei ole tunnuksia Gitbookiin, pyydä kutsu Laskuvarjotoimikunnalta.
 
 Jokainen muutos tehdään omaan haaraan (branch).
 

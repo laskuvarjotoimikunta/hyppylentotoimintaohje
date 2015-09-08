@@ -17,5 +17,5 @@ Toimintaohjeet:
 3. Anna branchille kuvaava nimi
 4. Uusi branch on nyt luotu, näet että se on valittuna branch-valikossa
 5. Tee muutokset haluamaasi kohtiin
-6. Kun olet sitä mieltä, että tekemäsi osuus on nyt valmis, yhdistä (merge) se master-branchiin
+6. Kun olet sitä mieltä, että tekemäsi osuus on nyt valmis, yhdistä (merge) se master-branchiin - vain ne tiedostot (artikkelit), johon olet tehnyt muutoksia, päivittyvät masterille
 

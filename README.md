@@ -40,7 +40,9 @@ Ilmoita nyt sekä Github että Gitbook.com -tunnuksesi (luultavasti samat) Lasku
 
 Saat sähköpostiisi kutsun otsikolla "[GitHub] XXX YYY has invited you to join the laskuvarjotoimikunta organization". Klikkaa sähköpostissa olevaa linkkiä ja tämän jälkeen klikkaa vihreää nappia "Join laskuvarjotoimikunta". Nyt kaikki Githubiin liittyvä on selvää.
 
-Samalla nyt sinun pitäisi nähdä Gitbook.comissa vasemmalla kohta 'Laskuvarjotoimikunta', jonka alta näet Hyppylentotoimintaohjeen. Edit-painikkeesta pääset muokkaamaan.
+Samalla nyt sinun pitäisi nähdä Gitbook.comissa vasemmalla kohta 'Laskuvarjotoimikunta', jonka alta näet Hyppylentotoimintaohjeen. Edit-painikkeesta pääset muokkaamaan. Tässä kohtaa Gitbook.com kysyy vielä, että saako se viedä muokkaukset Githubiin. Paina Authorize application.
+
+Noin.
 
 ## Kirjoittaminen
 

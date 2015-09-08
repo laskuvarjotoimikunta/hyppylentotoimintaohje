@@ -12,6 +12,8 @@ Julkaisutyökalu on Gitbook. Se perustuu versionhallintatyökaluun nimeltä Git.
 
 ## Tunnusten luominen ja muutosten tekeminen
 
+Näiden toimenpiteiden tekemiseen menee n. 5 minuuttia.
+
 Gitbook.comiin kirjaudutaan Githubin tunnuksilla. Käy siis tekemässä ensin Githubiin itsellesi tunnus:
 
 1. Mene osoitteeseen https://github.com/join

@@ -3,6 +3,8 @@ Hyppylentotoiminnan ohjeistus
 
 Tämä on Laskuvarjotoimikunnan hyppylentotoimintatyöryhmän ohjeistustyö.
 
+Uusin versio on luettavissa aina osoitteessa https://www.gitbook.com/book/laskuvarjotoimikunta/hyppylentotoimintaohje/
+
 Muutoksien tekeminen
 ======
 

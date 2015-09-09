@@ -1,7 +1,4 @@
-
 # Tyyliohjeet
-
-
 
 Tämä kappale sisältää tyyliohjeita kirjoittajille.
 

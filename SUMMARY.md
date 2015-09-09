@@ -78,5 +78,5 @@
 * [Huomioita](huomioita)
 * [Lisää luettavaa](linkit.md)
 * [Kirjoittajat](kirjoittajat.md)
-* Tyyliohjeet
+* [Tyyliohjeet](tyyliohjeet.md)
 

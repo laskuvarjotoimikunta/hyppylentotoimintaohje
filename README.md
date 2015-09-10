@@ -35,7 +35,7 @@ Seuraavaksi luodaan sinulle Gitbook.com-tunnus:
 
 Mikäli Gitbook.com ilmoittaa, että sinun pitää lisätä käyttäjätunnuksesi alle sähköpostiosoite, käy lisäämässä se sinne (ja vahvista se klikkaamalla taas sähköpostissa olevaa linkkiä).
 
-Ilmoita nyt sekä Github että Gitbook.com -tunnuksesi (luultavasti samat) Laskuvarjotoimikunnalle <mari.Lehtonen@laskuvarjotoimikunta.fi> / <tommi.savikko@skydivejkl.fi> niin sinulle annetaan oikeudet muokkauksiin.
+Ilmoita nyt sekä Github että Gitbook.com -tunnuksesi (luultavasti samat) Laskuvarjotoimikunnalle <mari.lehtonen@laskuvarjotoimikunta.fi> / <tommi.savikko@skydivejkl.fi> niin sinulle annetaan oikeudet muokkauksiin.
 
 Saat sähköpostiisi kutsun otsikolla "[GitHub] XXX YYY has invited you to join the laskuvarjotoimikunta organization". Klikkaa sähköpostissa olevaa linkkiä ja tämän jälkeen klikkaa vihreää nappia "Join laskuvarjotoimikunta". Nyt kaikki Githubiin liittyvä on selvää.
 

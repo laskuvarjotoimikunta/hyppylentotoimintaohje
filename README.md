@@ -49,6 +49,19 @@ Kirjoittaminen tapahtuu ns. markdown -syntaksilla. Käytännössä voit kirjoitt
 
 Mikäli kuitenkin haluat olla vähän näppärämpi, niin lue alkuun [markdown](https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md)-ohje. Kyseinen ohje on perusohje suomeksi, [internetistä](https://www.google.fi/?gws_rd=ssl#safe=off&q=markdown+syntax) löytyy paljon ohjeita lisää. Helppoa se on.
 
+## Kuvien lisääminen
+
+Jos haluat lisätä artikkeliin kuvia niin toimi seuraavasti:
+
+1. Klikkaa vasemmalta Files Tree-osion alta kuvat-hakemistoa hiiren oikeanpuoleisella napilla
+2. Valitse valikosta Upload<br>![kuvalisays](kuvat/ohje-kuvalisays.png)
+3. Valitse tietokoneeltasi kuva, jonka haluat lisätä
+4. Kun tiedosto on latautunut, voit nimetä sen uudelleen (kuvaavammaksi) klikkaamalla hiiren oikeanpuoleista nappia tiedoston kohdalla ja painamalla Rename..
+5. Voit lisätä kuvan tekstiin seuraavalla 'koodilla':
+```
+![kuvateksti](kuvat/tiedostonnimi.png)
+```
+
 ## Haarakäytännöt
 
 Jokainen muutos tehdään omaan haaraan (branch). Master-haara on se haara, joka julkaistaan lopulta sitten ulos.

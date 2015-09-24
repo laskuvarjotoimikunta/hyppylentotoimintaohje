@@ -29,14 +29,29 @@ Tällä hetkellä hyppylentotoimintaa koskevat mm. seuraavat kansalliset ilmailu
 
 ### EU-lainsäädäntö
 
-Lentotoiminnan säätely on muuttumassa yhteiseurooppalaiseksi. Tämä tapahtuu käytännössä siten, että lentotoimintaa koskevat vaatimukset julkaistaan osana EU-lainsäädäntöä ja ne ovat suoraan voimassa kaikissa EU:n jäsenvaltioissa samanlaisina. Tätä kirjoitettaessa (syyskuu 2015) esim. lentolupakirjoja ja lentokoneiden lentokelpoisuutta, huolto- ja korjaustoimintaa koskevat EU-vaatimukset ovat ollet voimassa jo jonkin aikaa. Säätelyssä on siis tapahtumassa merkittävä muutos sen arkkitehtuurissa. Varsinainen vaatimustaso ei kuitenkaan ole muuttumassa olennaisesti EU-säätelyn myötä.
+Lentotoiminnan sääntely yleisesti on muuttumassa yhteiseurooppalaiseksi. Tämä tapahtuu käytännössä siten, että lentotoimintaa koskevat vaatimukset julkaistaan osana EU-lainsäädäntöä ja ne ovat suoraan voimassa kaikissa EU:n jäsenvaltioissa samanlaisina. Tätä kirjoitettaessa (syyskuu 2015) esim. lentolupakirjoja ja lentokoneiden lentokelpoisuutta, huolto- ja korjaustoimintaa koskevat EU-vaatimukset ovat ollet voimassa jo jonkin aikaa. Sääntelyssä on siis tapahtumassa merkittävä muutos sen arkkitehtuurissa sekä siinä miltä taholta sääntely tulee. Varsinainen vaatimustaso ei kuitenkaan ole muuttumassa olennaisesti EU-sääntelyn myötä.
 
-EU julkaisee omat lentotoimintaa koskevat vaatimuksensa pääasiassa komission asetuksina. Asetukset ovat suoraan sellaisenaan voimassa kaikissa jäsenmaissa. Perustietoa EU-lainsäädännöstä esim. [eurooppatiedotus.fi](http://www.eurooppatiedotus.fi/public/default.aspx?contentid=92779#.VgPA17SGnwx) sivustolta. 
+EU julkaisee omat lentotoimintaa koskevat vaatimuksensa pääasiassa komission asetuksina. Asetukset ovat suoraan sellaisenaan voimassa kaikissa jäsenmaissa. Perustietoa EU-lainsäädännöstä esim. [eurooppatiedotus.fi](http://www.eurooppatiedotus.fi/public/default.aspx?contentid=92779#.VgPA17SGnwx) sivustolta. EU-lainsäädäntöön on pääsy [EUR-lex -sivuston](http://eur-lex.europa.eu/) kautta.
 
-EU:n julkaisemien asetusten lisäksi Euroopan Lentoturvallisuusvirasto EASA julkaisee ns. AMC/GM -materiaalia. Näissä ohjemateriaaleissa annetaan taustatietoa tavoista ja menettelytavoista, joilla tietty vaatimus voidaan katsoa täytettävän. 
+EU:n julkaisemien asetusten, jotka varsinaiset määräyksetsisältävät, lisäksi Euroopan Lentoturvallisuusvirasto EASA julkaisee asetuksia tukevaa ns. AMC/GM -materiaalia. Näissä ohjemateriaaleissa annetaan taustatietoa tavoista ja menettelytavoista, joilla tietty vaatimus voidaan katsoa täytettävän. EASA julkaisee AMC-materiaalin [www-sivuillaan.](https://easa.europa.eu/document-library/acceptable-means-of-compliance-and-guidance-materials)
 
 AMC = acceptable means of comlpiance
 GM = guidance material
+
+EU:n ilmailua koskevan vaatimusympäristön rakenne käy ilmi EASA:n julkaisemasta kuvasta. 
+![](EASA-regulations_structure1440x681px.jpg)
+
+Vaatimusympäristöstön soveltamisesta käytännössä muutama esimerkki.
+
+1. 
+Laskuvarjokerhon omistaman Cessna 182 lentokoneen huollot suorittaa Pohjois-Karjalassa toimiva lentokonekorjaamo. Lentokonekorjaamolle asetetut, toimiluvan myöntämisen edellytyksenä olevat, vaatimukset on kirjattu kuvassa Continuing Airworthiness -otsikon alla sijaitsevaan Part-145:een. Useimmiten puhekielessä viitataan tällöin huoltotoiminta-asetuksen, joka on julkaistu viitenumerolla (EC)2032/2003, osaan 145.
+
+1. 
+Lennon suorittaa lentäjä, jolla on yksityislentäjän lupakirja (PPL). Lentäjän lupakirjan käyttöön ja lupakirjan kouluttamiseen liittyvät vaatimukset (lentäjän oikeudet, kokemusvaatimukset yms) on julkaistu Air Crew -asetuksen osassa Part-FCL. Lentäjän lääketieteellisiä kelpoisuusvaatimuksia koskevat vaatimukset löytyvät osasta Part-MED. Lentokouluja eli hyväksyttyjä koulutusorganisaatioita koskevat organisaatiovaatimukset Part-ORA:ssa.
+
+Laskuvarjohyppylentojen operatiivista suorittamista koskevat vaatimukset julkaistaan
+
+
 
 
 

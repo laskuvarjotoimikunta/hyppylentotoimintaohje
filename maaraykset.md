@@ -1,5 +1,24 @@
 
-## Määräysympäristö
+
+# Määräysympäristö
+
+##Yleistä
+
+Laskuvarjohyppylentotoimintaa säädellään paitsi kansallisesti, niin enenevässä määrin myös EU-lainsäädännöllä. Hyppylentotoiminnan määräys- ja vaatimusympäristö koostuu paitsi yleisesti lentotoimintaa koskevista määräyksistä (esim. määräykset lentäjien lupakirjoista), niin myös spesifisesti laskuvarjohyppylentotoimintaa koskevista säännöistä (kuten vaikkapa laskuvarjohyppylennoilla edellytettävät varusteet).
+
+Lentotoiminta, jota myös laskuvarjohyppytoimintaan liittyen harjoitetaan, on melko yksityiskohtaisesti säädeltyä. Esim. tavanomaisten laskuvarjohyppytoimintaan käytettävien lentokoneiden huoltotoiminta on huomattavasti tarkemmin säädeltyä kuin vaikkapa autojen huoltaminen.
+
+###Kansalliset määräykset
+
+Suomessa lentämistä ja ilmailua säädellään ilmailulailla sekä Liikenteen Turvallisuusvirasto Trafin antamilla määräyksillä. Lentotoimintaa koskevat kansalliset määräykset ovat kuitenkin suurelta osin korvautumassa EU:n yhteisillä lentotoimintaa koskevilla vaatimuksilla. Esim. laskuvarjohyppylentotoimintaa koskevien EU-määräysten odotetaan korvaavan kansalliset määräykset vuoden 2017 aikana.
+
+
+
+
+
+
+
+
 
 Tällä hetkellä hyppylentotoimintaa koskee seuraavat määräykset:
 

@@ -4,26 +4,30 @@
 
 ##Yleistä
 
-Laskuvarjohyppylentotoimintaa säädellään paitsi kansallisesti, niin enenevässä määrin myös EU-lainsäädännöllä. Hyppylentotoiminnan määräys- ja vaatimusympäristö koostuu paitsi yleisesti lentotoimintaa koskevista määräyksistä (esim. määräykset lentäjien lupakirjoista), niin myös spesifisesti laskuvarjohyppylentotoimintaa koskevista säännöistä (kuten vaikkapa laskuvarjohyppylennoilla edellytettävät varusteet).
+Laskuvarjohyppylentotoimintaa säädellään paitsi kansallisesti, niin enenevässä määrin myös EU-lainsäädännöllä. Hyppylentotoiminnan määräys- ja vaatimusympäristö koostuu paitsi yleisesti lentotoimintaa koskevista määräyksistä (esim. määräykset lentäjien lupakirjoista tai lentokoneiden huoltamisesta), niin myös spesifisesti laskuvarjohyppylentotoimintaa koskevista säännöistä (kuten vaikkapa laskuvarjohyppylennoilla edellytettävät varusteet).
 
-Lentotoiminta, jota myös laskuvarjohyppytoimintaan liittyen harjoitetaan, on melko yksityiskohtaisesti säädeltyä. Esim. tavanomaisten laskuvarjohyppytoimintaan käytettävien lentokoneiden huoltotoiminta on huomattavasti tarkemmin säädeltyä kuin vaikkapa autojen huoltaminen.
+Lentäminen on yleisesti ottaen hyvin yksityiskohtaisesti säädeltyä verrattuna moneen muuhun toimintaan. Esim. tavanomaisten laskuvarjohyppytoimintaan käytettävien lentokoneiden huoltotoiminta on huomattavasti tarkemmin säädeltyä kuin vaikkapa autojen huoltaminen.
+
+
 
 ###Kansalliset määräykset
 
-Suomessa lentämistä ja ilmailua säädellään ilmailulailla sekä Liikenteen Turvallisuusvirasto Trafin antamilla määräyksillä. Lentotoimintaa koskevat kansalliset määräykset ovat kuitenkin suurelta osin korvautumassa EU:n yhteisillä lentotoimintaa koskevilla vaatimuksilla. Esim. laskuvarjohyppylentotoimintaa koskevien EU-määräysten odotetaan korvaavan kansalliset määräykset vuoden 2017 aikana.
+Suomessa ilmailua säädellään ilmailulailla sekä Liikenteen Turvallisuusvirasto Trafin antamilla määräyksillä. Lentotoimintaa koskevat kansalliset määräykset ovat kuitenkin suurelta osin korvautumassa EU:n yhteisillä lentotoimintaa koskevilla vaatimuksilla. Esim. laskuvarjohyppylentotoimintaa koskevien EU-määräysten odotetaan korvaavan kansalliset määräykset vuoden 2017 aikana.
 
+Ilmailulaki sisältää laskuvarjohyppylentojen suorittamisen osalta joitakin keskeisiä määritelmiä. Ilmailulaissa määritellään laskuvarjohyppylentojen olevan lentotyötä. Lentotyöllä tarkoitetaan ilma-aluksen käyttämistä erikoistehtäviin. Osa lentotyötoiminnasta edellyttää Trafin myöntämää toimilupaa, mutta esim. laskuvarjohyppylennot on tästä vaatimuksesta vapautettu.
 
+Liikenteen Turvallisuusvirasto Trafi julkaisee toimivaltansa puitteissa ilmailua koskevia viranomaismääräyksiä.
 
+Tällä hetkellä hyppylentotoimintaa koskevat mm. seuraavat kansalliset ilmailumääräykset:
 
-
-
-
-
-
-Tällä hetkellä hyppylentotoimintaa koskee seuraavat määräykset:
+* OPS M1-23
+    * Käsittelee lentotyötoimintaa yleisesti
 
 * [OPS M6-1](http://www.finlex.fi/data/normit/5537-opm6_01.pdf)
-  * Käsittelee varjokaluston lisäksi mm. ilma-aluksen kuormaamista ja lentokoneen / lentäjän vaatimuksia
+  * Käsittelee varjokaluston lisäksi mm. ilma-aluksen kuormaamista ja lentokoneen / lentäjän vaatimuksia.
+
+* OPS M2-1 
+    * Käsittelee yleisilmailun toiminnallisia perusvaatimuksia
 
 Tulevia määräysluonnoksia, jotka ehkä pitää ottaa huomioon:
 * EASA Part NCO

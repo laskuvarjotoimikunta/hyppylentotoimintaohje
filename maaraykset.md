@@ -25,13 +25,24 @@ Tällä hetkellä hyppylentotoimintaa koskevat mm. seuraavat kansalliset ilmailu
   * Käsittelee varjokaluston lisäksi mm. ilma-aluksen kuormaamista ja lentokoneen / lentäjän vaatimuksia.
 
 * OPS M2-1 
-    * Käsittelee yleisilmailun toiminnallisia perusvaatimuksia
+    * Käsittelee yleisilmailussa sovellettavia toiminnallisia perusvaatimuksia mm. ilma-aluksen varusteiden yms suhteen.
 
 ### EU-lainsäädäntö
 
-Lentotoiminnan säätely on muuttumassa yhteiseurooppalaiseksi. Tämä tapahtuu käytännössä siten, että lentotoimintaa koskevat vaatimukset julkaistaan osana EU-lainsäädäntöä ja ne ovat suoraan voimassa kaikissa EU:n jäsenvaltioissa samanlaisina.
+Lentotoiminnan säätely on muuttumassa yhteiseurooppalaiseksi. Tämä tapahtuu käytännössä siten, että lentotoimintaa koskevat vaatimukset julkaistaan osana EU-lainsäädäntöä ja ne ovat suoraan voimassa kaikissa EU:n jäsenvaltioissa samanlaisina. Tätä kirjoitettaessa (syyskuu 2015) esim. lentolupakirjoja ja lentokoneiden lentokelpoisuutta, huolto- ja korjaustoimintaa koskevat EU-vaatimukset ovat ollet voimassa jo jonkin aikaa. Säätelyssä on siis tapahtumassa merkittävä muutos sen arkkitehtuurissa. Varsinainen vaatimustaso ei kuitenkaan ole muuttumassa olennaisesti EU-säätelyn myötä.
 
-Säätelyssä on siis tapahtumassa merkittävä muutos sen arkkitehtuurissa. Kuitenkaan varsinainen vaatimustaso ei ole muuttumassa merkittävästi.
+EU julkaisee omat lentotoimintaa koskevat vaatimuksensa pääasiassa komission asetuksina. Asetukset ovat suoraan sellaisenaan voimassa kaikissa jäsenmaissa. Perustietoa EU-lainsäädännöstä esim. [eurooppatiedotus.fi](http://www.eurooppatiedotus.fi/public/default.aspx?contentid=92779#.VgPA17SGnwx) sivustolta. 
+
+EU:n julkaisemien asetusten lisäksi Euroopan Lentoturvallisuusvirasto EASA julkaisee ns. AMC/GM -materiaalia. Näissä ohjemateriaaleissa annetaan taustatietoa tavoista ja menettelytavoista, joilla tietty vaatimus voidaan katsoa täytettävän. 
+
+AMC = acceptable means of comlpiance
+GM = guidance material
+
+
+
+
+
+
 
 Tulevia määräysluonnoksia, jotka ehkä pitää ottaa huomioon:
 * EASA Part NCO

@@ -73,7 +73,9 @@ Toimintaohjeet:
 3. Anna branchille kuvaava nimi
 4. Uusi branch on nyt luotu, näet että se on valittuna branch-valikossa
 5. Tee muutokset haluamaasi kohtiin
-6. Kun olet sitä mieltä, että tekemäsi osuus on nyt valmis, yhdistä (merge) se master-branchiin - vain ne tiedostot (artikkelit), johon olet tehnyt muutoksia, päivittyvät masteriin
+6. Kun olet sitä mieltä, että tekemäsi osuus on nyt valmis, ilmoita tämä Marille ja Mari hoitaa tekemäsi yhdistämisen (merge) päähaaraan.
+
+Jos haluat olla noheva, voit tehdä itse pull requestin GitHubissa. Lisäillään tästä ohjeet myöhemmin.
 
 # Lisensointi
 

@@ -75,6 +75,8 @@ Toimintaohjeet:
 5. Tee muutokset haluamaasi kohtiin
 6. Kun olet sitä mieltä, että tekemäsi osuus on nyt valmis, ilmoita tämä Marille ja Mari hoitaa tekemäsi yhdistämisen (merge) päähaaraan.
 
+Älä siis yhdistä itse omaa haaraasi masteriin, hallinointi hoituu helpommin kun pidetään pieni byrokratia toiminnassa mukana.
+
 Jos haluat olla noheva, voit tehdä itse pull requestin GitHubissa. Lisäillään tästä ohjeet myöhemmin.
 
 # Lisensointi

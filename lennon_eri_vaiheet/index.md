@@ -13,63 +13,32 @@ Pilotti tarkistaa, että varusteet ovat kunnossa: pelastusvarjo on ehjä, tarkas
 
 Koneessa pitää olla puukko, ilmakuva kentästä (rasteroitu etsintäkartta, joka löytyy myös manifestistä), korkeusmittari, sekä muut varusteet, kuten turvalaitteet, jotka estävät esim. hyppääjän tahattoman kosketuksen moottorinhallintajärjestelmiin.
 
-Päivätarkastuksessa voi olla kone/kerhokohtaisia erilaisuuksia riippuen kone tyypistä.
-
+Päivätarkastuksessa voi olla kone- ja kerhokohtaisia erilaisuuksia riippuen konetyypistä.
 
 ## Tankkaukset
 
-
 Lennettäessä hyppyalueen välittömässä läheisyydessä koneessa olevan poltto-ainereservin on riitettävä vähintään 15 minuutiksi.
 
-Riippuen konetyypistä ja moottorityypistä tankkausmäärä voi vaihdelle paljonkin riippuen 
+Riippuen konetyypistä ja moottorityypistä tankkausmäärä voi vaihdelle paljonkin riippuen hyötykuormasta, moottorin käynnistysten optimoimisesta tai muiden tarkastusten tuomasta vaatimuksesta (esimerkiksi öljyn määrän tarkastus/lisäys).
 
-hyötykuormasta, moottorin käynnistysten optimoimisesta tai muiden tarkastusten tuomasta 
+Koneeseen ei kannata tankata ylimääräistä poltto-ainetta, koska se voi hidastaa koneen nousunopeutta, vähentää hyötykuormaa ja joissakin tapauksissa aiheuttaa painopistemuutoksen. Sopiva tankkausväli on myös pilotille hetken lepotauko ja hyvin manifestin kanssa organisoituna nopea toimenpide.
 
-vaatimuksesta, esimerkiksi öljyn määrän tarkastus/lisäys.
+Manifestin on hyvä tietää, mikä on koneen toiminta-aika tankkauksen jälkeen.
 
-Poltto-ainetta on turhaa ottaa ylimääräistä mukaan koska se voi hidastaa koneen 
 
-nousunopeutta, vähentää hyötykuormaa ja joissakin tapauksissa aiheuttaa 
+## Yhteistoiminta lennonjohdon/aluelennonjohdon kanssa
 
-painopistemuutoksen. Sopiva tankkausväli on myös pilotille hetken lepotauko ja hyvin 
+Lennonjohdolle ilmoitetaan laskuvarjotoiminnan aloittaminen ennen koneen käynnistämistä, joissain tapauksissa tehdään lentosuunnitelma. Varataan ilmatilan korkeus ja ilmoitetaan hyppylinjan suunta ja uloshyppypaikka.
 
-manifestin kanssa organisoitu, nopea toimenpide.
+Samalla kerrotaan mahdollisesta normaalista poikkeavasta toiminnasta, kuten oppilastoiminnasta, korkeista avauksista (kupuruttaajat) tai toiminnasta useammalla koneella.
 
-Manifestin on hyvä tietää mikä on koneen toiminta-aika tankkauksen jälkeen.
+Samalla on hyvä tiedustella lähtevän tai saapuvan reittiliikenteen aikataulua tai muuta aikataulutettua liikennettä. Nämä tiedot on hyvä toimittaa manifestiin.
 
-Yhteistoiminta lennonjohdon/aluelennonjohdon kanssa
+Lennonjohto antaa tarvittavat tiedot hyppylennon lentämiseksi. Se voi esimerkiksi rajata alueita, joilla nousun / laskeutumisen saa suorittaa. Yleensä kone saa transponderikoodin hyppypäivälle.
 
-Lennonjohdolle ilmoitetaan laskuvarjotoiminnan aloittaminen ennen koneen käynnistämistä, 
+Pokanvanhin tai hyppymestari toimittaa pilotille pokan tiedot, eli kertoo hyppääjien määrän per hyppykorkeus. Hän myös ilmoittaa hyppyihin sisältyvät erikoispiirteet, esimerkiksi pakkolaukaisuoppilaat ja heidän hyppylinjansa tai korkeat avaukset. Nämä tiedot välitetään lennonjohdolle, joka antaa tietojen perusteella lentoselvityksen.
 
-joissain tapauksissa tehdään lentosuunnitelma. Varataan ilmatilan korkeus ja ilmoitetaan 
-
-hyppylinjan suunta ja uloshyppypaikka.
-
-Samalla kerrotaan mahdollisesta normaalista poikkeavasta toiminnasta kuten 
-
-oppilastoiminnasta, korkeista avauksista (kupuruttaajat), toiminta useammalla koneella.
-
-Samalla on hyvä tiedustella lähtevän/saapuvan reittiliikenteen aikataulua tai muuta 
-
-aikataulutettua liikennettä. Nämä tiedot on hyvä toimittaa manifestiin.
-
-Lennonjohto antaa tarvittavat tiedot hyppylennon lentämiseksi, voi rajata alueita joilla 
-
-nousua/laskua saa suorittaa. Yleensä kone saa transponderi koodin sille päivälle.
-
-Pokan vanhin tai hyppymestari toimittaa pilotille tiedon pokasta, hyppääjien määrä per korkeus 
-
-ja ilmoittaa hyppyihin sisältyvät erikoispiirteen. Esimerkiksi naruoppilaita 1000m 2kpl kaksi linjaa 
-
-tai 1600m korkea-avaus. Nämä tiedot välitetään lennonjohdolle joka antaa näiden perusteella 
-
-selvityksen.
-
-Ennen jokaista linjalle ajoa ja pudotusta on lennonjohdolta saatava lupa linjalle ja lupa 
-
-pudottamaan. Luvan saatua on hyväntavan mukaista ilmoittaa hyppymestarille tai 
-
-pokanvanhimmalle arvio ajasta uloshyppypaikalle, esimerkiksi 2 minuuttia. Joskus lupa voi tulla 
+Ennen jokaista linjalle ajoa ja pudotusta on lennonjohdolta saatava lupa linjalle ja lupa pudotukseen. Luvan saamisen jälkeen on hyvän tavan mukaista ilmoittaa hyppymestarille tai pokanvanhimmalle arvio uloshyppyajankohdasta, esimerkiksi 2 minuuttia. Joskus lupa voi tulla 
 
 vaiheittain. Ensin lupa linjalle ja vasta myöhemmin lupa pudottaa, esimerkiksi silloin kun kentällä 
 

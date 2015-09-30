@@ -38,29 +38,17 @@ Lennonjohto antaa tarvittavat tiedot hyppylennon lentämiseksi. Se voi esimerkik
 
 Pokanvanhin tai hyppymestari toimittaa pilotille pokan tiedot, eli kertoo hyppääjien määrän per hyppykorkeus. Hän myös ilmoittaa hyppyihin sisältyvät erikoispiirteet, esimerkiksi pakkolaukaisuoppilaat ja heidän hyppylinjansa tai korkeat avaukset. Nämä tiedot välitetään lennonjohdolle, joka antaa tietojen perusteella lentoselvityksen.
 
-Ennen jokaista linjalle ajoa ja pudotusta on lennonjohdolta saatava lupa linjalle ja lupa pudotukseen. Luvan saamisen jälkeen on hyvän tavan mukaista ilmoittaa hyppymestarille tai pokanvanhimmalle arvio uloshyppyajankohdasta, esimerkiksi 2 minuuttia. Joskus lupa voi tulla 
+Ennen jokaista linjalle ajoa ja pudotusta on lennonjohdolta saatava lupa linjalle ja lupa pudotukseen. Luvan saamisen jälkeen on hyvän tavan mukaista ilmoittaa hyppymestarille tai pokanvanhimmalle arvio uloshyppyajankohdasta. 
 
-vaiheittain. Ensin lupa linjalle ja vasta myöhemmin lupa pudottaa, esimerkiksi silloin kun kentällä 
+Joskus lupa voi tulla vaiheittain. Ensin lupa linjalle ja vasta myöhemmin lupa pudottaa, esimerkiksi silloin kun kentälle on laskeutumassa tai sieltä on lähdössä toinen lentokone, joka estää pudotuksen, mutta ei ajoa linjalle. Lupa pudottamiselle ilmoitetaan pokanvanhimmalle tai hyppymestarille.
 
-on laskeutumassa tai lähdössä toinen lentokone joka estää pudotuksen mutta ei estä linjalle 
-
-ajoa. Lupa pudottamiselle ilmoitetaan pokan vanhimmalle tai hyppymestarille.
-
-Lennonjohtaja saattaa pyytää erikseen ilmoittamaan myös pudotuksen eli sen jälkeen kun on 
-
-tehty ”välipudotus” tai pudotettu kaikki. Silloin ilmoitetaan ”callsign-pudotti 5 hyppääjää 
+Lennonjohtaja saattaa pyytää erikseen ilmoittamaan myös pudotukset eli mahdolliset pudotukset välikorkeuksissa tai pudotettu kaikki. Silloin ilmoitetaan ”callsign-pudotti 5 hyppääjää 
 
 lentopinta 80 jatketaan ylös pinnalle 95”, ”callsign-pudotti 12 hyppääjää ja jätti lentopinnan 140”
 
-Viimeisen pudotuksen jälkeen lennonjohto antaa selvityksen korkeudenpudottamista varten ja 
+Viimeisen pudotuksen jälkeen lennonjohto antaa selvityksen korkeudenpudottamista ja lähestymistä varten. Joillakin kentillä hyppykone ei pääse laskuun, ennen kuin kaikki hyppääjät ovat maassa. Tämä on hyvä huomioida kun tiputellaan korkeuksia. 
 
-lähestymistä varten. Joillakin kentillä hyppykone ei pääse laskuun ennen kuin kaikki hyppääjät 
-
-ovat maassa. Tämä on hyvä huomioida kun tiputellaan korkeuksia. Hyppylentotoiminnan 
-
-lopettaminen on hyvä ilmoittaa lennonjohdolle vaikka lennonjohto sen hetkenpäästä varmasti 
-
-huomaakin mutta voi siten heti vapauttaa ja purkaa ilmatilavarausken.
+Hyppylentotoiminnan lopettaminen on hyvä ilmoittaa lennonjohdolle. Näin se voi välittömästi vapauttaa ja purkaa ilmatilavarauksen.
 
 Toimittaessa aluelennonjohdon (lennonjohto ei ole paikalla tai toimittaessa korpikentältä) 
 

@@ -70,18 +70,6 @@ Hyppylentotoiminnan loputtua pitää päättää myös lentosuunnitelma vaikka l
 ## Lentoetsintä
 
 
-Koneesta ja manifestistä (mielellään myös lennonjohdosta) saisi löytyä rasteroitu 
+Koneesta ja manifestistä (mielellään myös lennonjohdosta) saisi löytyä rasteroitu (a,b,c…1,2,3…) maastokartta sellaisiin tapauksiin kun manifesti, lennonjohto, pokanvanhin tai hyppymestari pyytää paikantamaan oppilaan, joka ei laskeutunut tarkoitetulle hyppyalueelle tai hyppääjän pääkuvunirtipäästöstä pääkupu laskeutuu mahdollisesti vaikeaan paikka löytää.
 
-(a,b,c…1,2,3…) maastokartta sellaisiin tapauksiin kun manifesti, lennonjohto, pokanvanhin tai 
-
-mesu pyytää paikantamaan oppilaan joka ei laskeutunut tarkoitetulle hyppyalueelle tai 
-
-hyppääjän pääkuvunirtipäästöstä pääkupu laskeutuu mahdollisesti vaikeaan paikka löytää.
-
-Hyppylentäjä ohjaa suorittaa lentoetsintää ja paikantaa kohteen ja ilmoittaa rasterin (100x100m) 
-
-neliön koordinaatit, esimerkiksi D5.
-
-Lentoetsinnästä pitää pyytää erikseen lupaa lennonjohdolta ja ilmoittaa mitä etsitään että 
-
-lennonjohtaja voi aloittaa tarvittavat toimenpiteet.
+Hyppylentäjä ohjaa suorittaa lentoetsintää ja paikantaa kohteen ja ilmoittaa rasterin (100x100m) neliön koordinaatit, esimerkiksi D5.Lentoetsinnästä pitää pyytää erikseen lupaa lennonjohdolta ja ilmoittaa mitä etsitään, jotta lennonjohtaja voi aloittaa tarvittavat toimenpiteet.

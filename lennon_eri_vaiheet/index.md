@@ -50,57 +50,25 @@ Viimeisen pudotuksen jälkeen lennonjohto antaa selvityksen korkeudenpudottamist
 
 Hyppylentotoiminnan lopettaminen on hyvä ilmoittaa lennonjohdolle. Näin se voi välittömästi vapauttaa ja purkaa ilmatilavarauksen.
 
-Toimittaessa aluelennonjohdon (lennonjohto ei ole paikalla tai toimittaessa korpikentältä) 
+Toimittaessa aluelennonjohdon (lennonjohto ei ole paikalla tai toimittaessa korpikentältä) kanssa tehdään lentosuunnitelma jos hyppykorkeus tai nouse/laskualueet menevät aluelennonjohdon hallitsemalle alueelle.
 
-kanssa tehdään lentosuunnitelma jos hyppykorkeus tai nouse/laskualueet menevät 
+Silloin tehdään normaalit radioilmoitukset kuten valvomattomassa ilmatilassa tehdään ja ilmoitetaan hyppylentämisestä sekä ilmoitetaan hyppykorkeudet.
 
-aluelennonjohdon hallitsemalle alueelle.
+Nousun aikana, ennen kuin mennään valvottuun ilmatilaan pyydetään aluelennonjohdolta selvitys korkeuteen, tiputtamaan hyppääjät ja jättämään korkeus. Aluelennonjohto selvittää ja saattaa pyytää ilmoittamaan tiputukset ja esimerkiksi poistumisen valvotusta ilmatilasta, esimerkiksi ” call-sign, kerro läpi lentopinta 95 alas”.
 
-Silloin tehdään normaalit radioilmoitukset kuten valvomattomassa ilmatilassa tehdään ja 
+Ennen tiputusta valvotusta ilmatilasta valvomattomaan ilmatilaan on muistettava tehdä myös ilmoitus radiolla lentokentän/paikan taajuudella. Valvomattomassa ilmatilassa saattaa olla tulossa tai lähdössä kone, joka ei tiedä aluelennonjohdon ja hyppykoneen välisestä radioliikenteestä.
 
-ilmoitetaan hyppylentämisestä sekä ilmoitetaan hyppykorkeudet.
+Palattaessa valvomattomaan ilmatilaan vaihdetaan radion takaisin valvomattoman lentokentän/paikan radiotaajuus. Valvomattomassa tilassa hyppylentoja lennettäessä on hyvä muistuttaa lähestyvää liikennettä laskuvarjohyppytoiminnasta ja määritellä ilmoituksessa myös laskuvarjohyppääjien laskeutumisalue, koska lähestyvä liikenne saattaa tulla lentäen kentän yli tarkoituksenaan tarkastaa tuulipussista vallitseva tuulen suunta ja nopeus. 
 
-Nousun aikana ennen kuin mennään valvottuun ilmatilaan pyydetään aluelennonjohdolta 
-
-selvitys korkeuteen, tiputtamaan hyppääjät ja jättämään korkeus. Aluelennonjohto selvittää ja 
-
-saattaa pyytää ilmoittamaan tiputukset ja esimerkiksi poistumisen valvotusta ilmatilasta, 
-
-esimerkiksi ” call-sign, kerro läpi lentopinta 95 alas”.
-
-Ennen tiputusta valvotusta ilmatilasta valvomattomaan ilmatilaan on muistettava tehdä myös 
-
-ilmoitus radiolla lentokentän/paikan taajuudella. Valvomattomassa ilmatilassa saattaa olla 
-
-tulossa tai lähdössä kone joka ei tiedä aluelennonjohdon ja hyppykoneen välisestä 
-
-radioliikenteestä.
-
-Palattaessa valvomattomaan ilmatilaan vaihdetaan radion takaisin valvomattoman 
-
-lentokentän/paikan radiotaajuus.
-
-Valvomattomassa tilassa hyppylentoja lennettäessä on hyvä ilmoittaa lähestyvää liikennettä 
-
-laskuvarjohyppytoiminnasta ja määritellä ilmoituksessa myös laskuvarjohyppääjien 
-
-laskeutumisalue koska lähestyvä liikenne saattaa tulla lentäen kentänyli tarkoituksenaan 
-
-tarkastaa tuulipussista vallitseva tuulen suunta ja nopeus. Tällöin lähestyvä kone saattaa lentää 
-
-laskeutumisalueen yli läheltä vierestä ennen kuin liittyy laskeutumiskuvioon laskeutumista tai 
-
-läpilaskua varten. Helikopteri saattaa tehdä huomattavasti lentokoneesta poikkeavan 
+Tällöin lähestyvä kone saattaa lentää laskeutumisalueen yli läheltä vierestä ennen kuin liittyy laskeutumiskuvioon laskeutumista tai läpilaskua varten. Helikopteri saattaa tehdä huomattavasti lentokoneesta poikkeavan 
 
 lähestymisen.
 
-Hyppylentotoiminnan loputtua pitää päättää myös lentosuunnitelma vaikka lentosuunnitelma 
+Hyppylentotoiminnan loputtua pitää päättää myös lentosuunnitelma vaikka lentosuunnitelma hyppylentotoimintaa varten voidaan antaa alkamaan tiettyyn kellonaikana ja päättymään tiettyyn kellonaikaan.
 
-hyppylentotoimintaa varten voidaan antaa alkamaan tiettyyn kellonaikana ja päättymään tiettyyn 
 
-kellon aikaan.
+## Lentoetsintä
 
-Lentoetsintä
 
 Koneesta ja manifestistä (mielellään myös lennonjohdosta) saisi löytyä rasteroitu 
 

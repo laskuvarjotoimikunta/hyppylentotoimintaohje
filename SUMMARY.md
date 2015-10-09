@@ -15,7 +15,7 @@
    * [Lentäjän jaksaminen ja lepotauot](vaatimukset/lentajan_jaksaminen)
        * [Yhden lentäjän koneet](vaatimukset/lentajan_jaksaminen-1pilot)
        * [Kahden lentäjän koneet](vaatimukset/lentajan_jaksaminen-2pilot)
-* [Vastuut](vastuut/index)
+* [Vastuut](vastuut/index.md)
    * [Lentäjä](vastuut/lentaja)
    * [Hyppääjä](vastuut/hyppaaja)
        * [Oppilas](vastuut/hyppaaja-oppilas)

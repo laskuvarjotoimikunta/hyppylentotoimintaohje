@@ -48,7 +48,7 @@ Lentäjällä on kuitenkin mahdollisuus vaikuttaa myös varsinaisen laskuvarjohy
  - Esimerkiksi osalle oppilassuorituksista on minimikorkeuden lisäksi järkevä maksimikorkeus
 - Ilmatilan esteettömyys alapuolella
  - Laskuvarjohyppyjä ei pääsääntöisesti saa suorittaa pilven läpi, hyppääjät voivat ohjeistaa ajamaan linjaa pilvien väistämiseksi
- - Lentäjä on ainoa, joka kuulee muiden alueella olevien radioliike
+ - Lentäjä on ainoa, joka kuulee muiden alueella olevien radioliikenteen
 - Pudotuksen jälkeen alastulon suorittaminen turvallisesti
  - Hyppääjät eivät kykene väistämään konetta
  - Osa hyppääjistä voi olla uloshypyn jälkeen aivan muualla kuin linjan varrella (korkeat avaukset, liitopukuhyppääjät jne.)
@@ -61,9 +61,9 @@ Hyppääjän asema nykyisessä määräysympäristössä on [tämä on vielä ep
 
 Hyppääjän tulee ymmärtää olevansa hyppylennolla enemmän kuin matkustaja. Hyppääjien sijoittuminen ja toiminta lentokoneessa vaikuttavat muun muassa sen massakeskiöasemaan, kuorman liikkuvuuteen, aerodynamiikkaan (uloskiipeävät hyppääjät), toisinsanoen lentokoneen lennettävyyteen. Vain yhteistoiminta lentäjän kanssa varmistaa hyppylennon lentovaiheen ja hyppyvaiheen aloituksen turvallisuuden.
 
-Voimassa oleva tai voimaan tulossa oleva EU-sääntely (kuin myös terve järki) vaatii tällaisten toimijoiden olevan toimintakykyisiä. Toisinsanoen laskuvarjohyppääjä ei saa olla päihteiden tai huumaavien aineiden vaikutuksenalainen, väsynyt tai muuten toimintakyvyltään alentunut.
+Voimassa oleva tai voimaan tulossa oleva EU-sääntely<sub>1</sub> (kuin myös terve järki) vaatii tällaisten toimijoiden olevan toimintakykyisiä. Toisinsanoen laskuvarjohyppääjä ei saa olla päihteiden tai huumaavien aineiden vaikutuksenalainen, väsynyt tai muuten toimintakyvyltään alentunut.
 
-EU-sääntelyn mukaan jokaisen hyppääjän on tunnettava seuraavat hyppylentoihin liittyvät kerho- konekohtaiset ohjeet:
+EU-sääntelyn<sub>2</sub> mukaan (jokaisen hyppääjän on tunnettava seuraavat hyppylentoihin liittyvät kerho- konekohtaiset ohjeet:
 - Toiminta maassa ja lennolla, mukaanlukien toiminta hätätilanteessa
 - Kuormaus ja poistumistoimenpiteet
 - Ovien toiminta normaalitilanteessa ja hätätilanteessa
@@ -73,10 +73,51 @@ Jokaisen vierailevankin hyppääjän velvollisuus on siis tutustua kerho- ja kon
 
 ###Lisenssihyppääjä
 
+Jokaisen itsenäisen hyppääjän vastuulla on tuntea sekä yleiset laista, viranomaismääräyksistä ja laskuvarjoyhteisön omista määräyksistä ja ohjeista tulevat säännöt, että paikkakohtaiset ohjeet koskien toimintaa kyseisellä kentällä, kyseisestä koneesta ja kyseisen paikallisyhteisön sääntöjä. Näitä hyppääjää koskevia määräyksiä löytyy siis ainakin seuraavista:
+
+- EU-sääntely <sub>2</sub>
+- Suomen ilmailun turvallisuusviranomaisen ilmailumääräys<sub>3</sub>
+- Suomen Imailuliiton toiminnalliset ohjeet ja kelpoisuusvaatimukset
+- Paikalliset hyppytoiminnanohjeet
+- Paikalliset kenttäkohtaiset määräykset
+- Konekohtaiset toimintaohjeet
+
+ 
+Oman toimintansa ohella jokaisen hyppääjän vastuulla on puuttua muiden hyppääjien toiminnassa tai varusteissa ja lentokoneen toiminnassa havaitsemiinsa turvallisuuspuutteisiin. Vähimmäisvaatimuksena on ilmoittaa asiasta ko. hyppääjälle tai lentäjälle.
+
+Erityisesti tämä vaatimus koskee hyppylennolla mukana olevia itsenäisiä oppilaita, joiden hypystä vastaava kouluttaja ei ole mukana lennolla.
+
 
 
 ###Kouluttaja
 
+Itsenäisestä hyppääjästä eroavaa laskuvarjohyppykouluttajaa ei tunneta EU-lainsäädännössä, ja kansallisessa lainsäädännössä ainoa viite löytyy ilmailun turvallisuusviranomaisen määräyksestä <sub>3</sub>. Sen mukaan hyppykouluttajan tulee 1) olla 18-vuotias, 2) omannut itsenäisen hyppääjän koulutustodistuksen yli 2 vuotta, 3) omata vähintään 200 itseaukaisuhypyn kokemuksen ja 4) olla koulutettu tehtävään.
+
+Suomen Ilmailuliiton määräyksistä<sub>4</sub> löytyvä kouluttajahierarkia ja kouluttajien velvollisuudet yhdessä yleisten rikosoikeudellisten vastuuperiaatteiden kanssa velvoittavat jokaista hyppykouluttajaa. Vaikka tällaiset "soft law" -tyyppiset ohjeet eivät olekaan lain tai viranomaismääräysten tavoin velvoittavia, voidaan niitä käyttää arvioitaessa riittävää huolellisuutta rikosvastuuta tai vahingonkorvausvastuuta arvioitaessa mahdollisesti myös SIL-toiminnan ulkopuolella. Oikeusesimerkkejä löytyy muun muassa varjoliidon ja laitesukeltamisen parissa tapahtuneista onnettomuuksista.  Lisäksi ne ovat syntyneet kokemuksesta ja turvallisuushakuisesta  terveestä järjestä. Jokaisen kouluttajan tulee siis hyppylennolla:
+
+- Ymmärtää olevansa vastuussa vielä tiedoiltaan ja taidoiltaan epäitsenäisen oppilaan toiminnasta
+- Valvoa oppilaan toimintaa tämän kokemuksen edellyttämällä tavalla kaikilta turvallisuuden kannalta oleellisilta osin, ainakin:
+  - Sijoittuminen, liikkuminen ja muu toiminta koneessa ja uloshypyssä
+  - Uloshyppypaikan ja ilmatilan esteettömyyden varmistaminen
+  - Varusteiden tarkastaminen ennen hyppyä
+ 
+  
+Hyppykouluttajan tulee lisäksi ymmärtää olevansa todennäköisesti hyppylennon kokeneimpien hyppääjien joukossa ja omaavansa asemansa ja koulutuksensa vuoksi todennäköisesti keskimääräistä paremmat tiedot ja ymmärryksen koko hyppytapahtumasta. Tämä korostaa kouluttajan vastuuta muiden hyppääjien ja lentokoneen toiminnan tarkkailussa ja vaaratilanteisiin puuttumisessa.
+
+
 ###Oppilas
 
 ###Pokanvanhin
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------
+
+1) EU komission asetus 965/2012 liite VII osasto E NCO.SPEC.110  
+2) EU komission asetuksen 965/2012 liitteen VII AMC1 NCO.SPEC.125  
+3) Liikenteen turvallisuusvirasto TraFin ilmailumääräys OPS M6-1  
+4) SIL Toiminnalliset ohjeet ja kelpoisuusvaatimukset ja Laskuvarjohyppykouluttajan opas

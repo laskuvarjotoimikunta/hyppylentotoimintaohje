@@ -1,6 +1,7 @@
 # Summary
 
 * [Johdanto](README.md)
+* [Hyppääjille](hyppaajille.md)
 * [Määräysympäristö](maaraykset.md)
 * [Vaatimukset](vaatimukset/index.md)
    * [Lentäjän kelpoisuus](vaatimukset/lentajankelpoisuus.md)

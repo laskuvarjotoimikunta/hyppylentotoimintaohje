@@ -17,7 +17,7 @@
        * [Kahden lentäjän koneet](vaatimukset/lentajan_jaksaminen-2pilot)
 * [Vastuut](vastuut/index.md)
    * [Lentäjä](vastuut/lentaja)
-   * [Hyppääjä](vastuut/hyppaaja)
+   * [Hyppääjä](vastuut/hyppaaja.md)
        * [Oppilas](vastuut/hyppaaja-oppilas)
        * [Lisenssihyppääjä](vastuut/hyppaaja-lisenssihyppaaja)
        * [Kouluttaja](vastuut/hyppaaja-kouluttaja)

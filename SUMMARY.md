@@ -20,7 +20,7 @@
    * [Hyppääjä](vastuut/hyppaaja.md)
        * [Oppilas](vastuut/hyppaaja-oppilas)
        * [Lisenssihyppääjä](vastuut/hyppaaja-lisenssihyppaaja.md)
-       * [Kouluttaja](vastuut/hyppaaja-kouluttaja)
+       * [Kouluttaja](vastuut/hyppaaja-kouluttaja.md)
        * [Pokanvanhin](vastuut/hyppaaja-pokanvanhin)
 * [Hyppylentotoiminnan perusteet](perusteet/index)
    * [Erilaiset lentokoneet ja niiden käyttö hyppytoiminnassa](perusteet/erilaiset_lentokoneet)

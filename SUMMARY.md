@@ -18,7 +18,7 @@
 * [Vastuut](vastuut/index)
    * [Lentäjä](vastuut/lentaja)
    * [Hyppääjä](vastuut/hyppaaja)
-       * [Oppilas](vastuut/hyppaaja-oppilas)
+       * [Oppilas](vastuut/hyppaaja-oppilas.md)
        * [Lisenssihyppääjä](vastuut/hyppaaja-lisenssihyppaaja.md)
        * [Kouluttaja](vastuut/hyppaaja-kouluttaja.md)
        * [Pokanvanhin](vastuut/hyppaaja-pokanvanhin)

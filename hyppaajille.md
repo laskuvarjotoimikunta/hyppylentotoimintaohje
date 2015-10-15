@@ -21,7 +21,7 @@ Esimerkiksi eräässä Cessna Caravanissa vajaat pokat kuormataan jonoittain - e
 
 Tämäkin tieto on hyppy-yhteisösi ohjeistuksissa.
 
-## Koneesta ulostautuminen eli exit
+## Uloshyppy eli exit
 
 Huolehdi siitä, että pääset turvallisesti koneesta ulos.
 

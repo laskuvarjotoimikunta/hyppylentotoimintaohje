@@ -31,37 +31,6 @@ e)	Pokanvanhin
 (6)	Tilanteen johtaminen yhdessä lentäjän kanssa vaaratilanteissa
 
 
-
-# Osallistujien vastusta hyppylennolla
-
-##Lentäjä
-
-
-
-##Hyppääjä
-
-
-
-###Lisenssihyppääjä
-
-
-
-
-
-### Kouluttaja
-
-
-
-###Oppilas
-
-###Pokanvanhin
-
-
-
-
-
-
-
 --------------------------------------------------------------------------------------------------
 
 1) EU komission asetus 965/2012 liite VII osasto E NCO.SPEC.110  

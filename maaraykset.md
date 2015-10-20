@@ -60,6 +60,6 @@ Laskuvarjohyppylentojen operatiivista suorittamista koskevat vaatimukset julkais
 
 
 Tulevia määräysluonnoksia, jotka ehkä pitää ottaa huomioon:
-* EASA Part NCO
-* EASA Part SPO
+* EASA Part-NCO
+* EASA Part-SPO
 

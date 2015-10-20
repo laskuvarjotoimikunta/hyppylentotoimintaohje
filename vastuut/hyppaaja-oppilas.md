@@ -1,3 +1,7 @@
 # Oppilas
 
-Sen paremmin EU-sääntely kuin kansallinenkaan lainsäädäntö eivät tee yksityiskohtaista eroa itsenäisen hyppääjän ja vielä koulutuksessa olevan oppilaan välillä. Kansallisen ilmailumääräyksen<sub>3</sub> mukaan laskuvarjohyppääjä voi hypätä itsenäisesti, kun hänellä on 25 itseaukaisuhyppyä, ja hän on antanut päävarjon pakkausnäytteen. Suomen Ilmailuliiton määräykset Hyppylentotoimintaa sääntelevien säädösten suhteen oppilas ei eroa muista hyppääjistä, vaan häntä koskevat 
+Sen paremmin EU-sääntely kuin kansallinenkaan lainsäädäntö eivät tee yksityiskohtaista eroa itsenäisen hyppääjän ja vielä koulutuksessa olevan oppilaan välillä. Kansallisen ilmailumääräyksen<sub>3</sub> mukaan laskuvarjohyppääjä voi hypätä itsenäisesti, kun hänellä on 25 itseaukaisuhyppyä, ja hän on antanut päävarjon pakkausnäytteen. Suomen Ilmailuliiton määräykset<sub>4</sub> ohjaavat koulutustoimintaa, mutta niistä ei löydy sellaisia hyppylentoa koskevia kohtia, joiden mukaan oppilaan asema olisi erilainen kuin itsenäisen hyppääjän.
+
+Lienee kuitenkin pidettävä ns. notorisena tosiseikkana sitä, että oppilaalta ei voida edellyttää samaa tietotaitoa ja osaamista kuin itsenäiseltä hyppääjältä. SIL-järjestelmän mukainen alkeiskoulutus Suomessa, vaikkakin on kansainvälisesti tarkastellen hyvin laaja ja perusteellinen, ei voi opettaa kuin ne välttämättömät taidot, joiden turvin oppilas voi **kouluttajan valvonnassa** hypätä.
+
+Oppilaan vastuulla on pyrkiä parhaansa mukaan noudattamaan niitä oppeja ja ohjeita, joita hänelle koulutuksessa on annettu, sekä ehdottomasti noudattaa kouluttajan hyppylennon aikana antamia ohjeita ja määräyksiä. Koska 

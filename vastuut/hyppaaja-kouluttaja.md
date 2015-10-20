@@ -15,6 +15,7 @@ Suomen Ilmailuliiton määräyksistä<sub>4</sub> löytyvä kouluttajahierarkia 
   - Sijoittuminen, liikkuminen ja muu toiminta koneessa ja uloshypyssä
   - Uloshyppypaikan ja ilmatilan esteettömyyden varmistaminen
   - Varusteiden tarkastaminen ennen hyppyä
+  - Oppilaan toiminta poikkeustilanteissa
  
   
 Hyppykouluttajan tulee lisäksi ymmärtää olevansa todennäköisesti hyppylennon kokeneimpien hyppääjien joukossa ja omaavansa asemansa ja koulutuksensa vuoksi todennäköisesti keskimääräistä paremmat tiedot ja ymmärryksen koko hyppytapahtumasta. Tämä korostaa kouluttajan vastuuta muiden hyppääjien ja lentokoneen toiminnan tarkkailussa ja vaaratilanteisiin puuttumisessa.

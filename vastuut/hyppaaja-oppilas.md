@@ -4,4 +4,5 @@ Sen paremmin EU-sääntely kuin kansallinenkaan lainsäädäntö eivät tee yksi
 
 Lienee kuitenkin pidettävä ns. notorisena tosiseikkana sitä, että oppilaalta ei voida edellyttää samaa tietotaitoa ja osaamista kuin itsenäiseltä hyppääjältä. SIL-järjestelmän mukainen alkeiskoulutus Suomessa, vaikkakin on kansainvälisesti tarkastellen hyvin laaja ja perusteellinen, ei voi opettaa kuin ne välttämättömät taidot, joiden turvin oppilas voi **kouluttajan valvonnassa** hypätä.
 
-Oppilaan vastuulla on pyrkiä parhaansa mukaan noudattamaan niitä oppeja ja ohjeita, joita hänelle koulutuksessa on annettu, sekä ehdottomasti noudattaa kouluttajan hyppylennon aikana antamia ohjeita ja määräyksiä. Koska 
+Oppilaan vastuulla on pyrkiä parhaansa mukaan noudattamaan niitä oppeja ja ohjeita, joita hänelle koulutuksessa on annettu, sekä ehdottomasti noudattaa kouluttajan hyppylennon aikana antamia ohjeita ja määräyksiä. Koska rikosoikeudelliset ja vahingonkorvausoikeudelliset opit asettavat kouluttajalle ja koulutusorganisaatiolle vastuuta asiassa, tulee oppilaiden suhteen tarvittaessa ryhtyä toimenpiteisiin, jos hän toimii tätä vastuutaan vastaan. Tarvittaessa koulutus tulee keskeyttää.
+

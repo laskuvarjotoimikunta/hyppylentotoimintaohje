@@ -6,3 +6,4 @@ Lienee kuitenkin pidettävä ns. notorisena tosiseikkana sitä, että oppilaalta
 
 Oppilaan vastuulla on pyrkiä parhaansa mukaan noudattamaan niitä oppeja ja ohjeita, joita hänelle koulutuksessa on annettu, sekä ehdottomasti noudattaa kouluttajan hyppylennon aikana antamia ohjeita ja määräyksiä. Koska rikosoikeudelliset ja vahingonkorvausoikeudelliset opit asettavat kouluttajalle ja koulutusorganisaatiolle vastuuta asiassa, tulee oppilaiden suhteen tarvittaessa ryhtyä toimenpiteisiin, jos hän toimii tätä vastuutaan vastaan. Tarvittaessa koulutus tulee keskeyttää.
 
+Hyppylennon sääntelyn näkökulmasta oppilaskin on yksi [mikä ikinä onkaan, laintulkinta on vielä kesken TraFissa]. Tämä asettaa myös oppilaalle velvollisuuden ilmoittaa mistä tahansa asiasta, jonka epäilee vaarantavan hyppylennon turvallisuuden.

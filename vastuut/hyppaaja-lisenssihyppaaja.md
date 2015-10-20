@@ -10,6 +10,6 @@ Jokaisen itsenäisen hyppääjän vastuulla on tuntea sekä yleiset laista, vira
 - Konekohtaiset toimintaohjeet
 
  
-Oman toimintansa ohella jokaisen hyppääjän vastuulla on puuttua muiden hyppääjien toiminnassa tai varusteissa ja lentokoneen toiminnassa havaitsemiinsa turvallisuuspuutteisiin. Vähimmäisvaatimuksena on ilmoittaa asiasta ko. hyppääjälle tai lentäjälle.
+Oman toimintansa ohella jokaisen hyppääjän vastuulla on puuttua muiden hyppääjien toiminnassa tai varusteissa ja lentokoneen toiminnassa havaitsemiinsa turvallisuuspuutteisiin. Vähimmäisvaatimuksena on ilmoittaa asiasta ko. hyppääjälle, pokanvanhimmalle tai lentäjälle.
 
 Erityisesti tämä vaatimus koskee hyppylennolla mukana olevia itsenäisiä oppilaita, joiden hypystä vastaava kouluttaja ei ole mukana lennolla.

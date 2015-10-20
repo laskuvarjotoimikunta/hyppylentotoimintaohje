@@ -1,3 +1,3 @@
 # Oppilas
 
-Sen paremmin EU-sääntely kuin kansallinenkaan lainsäädäntö eivät tee yksityiskohtaista eroa itsenäisen hyppääjän ja vielä koulutuksessa olevan oppilaan välillä. Liikenteen turvallisuusviranomaisen ilmailumääräyksen 
+Sen paremmin EU-sääntely kuin kansallinenkaan lainsäädäntö eivät tee yksityiskohtaista eroa itsenäisen hyppääjän ja vielä koulutuksessa olevan oppilaan välillä. Kansallisen ilmailumääräyksen<sub>3</sub> mukaan laskuvarjohyppääjä voi hypätä itsenäisesti, kun hänellä on 25 itseaukaisuhyppyä, ja hän on antanut päävarjon pakkausnäytteen. Suomen Ilmailuliiton määräykset Hyppylentotoimintaa sääntelevien säädösten suhteen oppilas ei eroa muista hyppääjistä, vaan häntä koskevat 

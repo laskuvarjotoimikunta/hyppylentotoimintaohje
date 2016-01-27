@@ -1,7 +1,7 @@
 Hyppylentotoiminnan ohjeistus
 ======
 
-Tämä on Laskuvarjotoimikunnan hyppylentotoimintatyöryhmän ohjeistustyö.
+Tämä on Laskuvarjotoimikunnan hyppylentotoimintatyöryhmän ohjeistustyön keskeneräinen versio. Tämä teksti poistetaan siinä vaiheessa, kun työ on valmis julkaistavaksi levitykseen. Työ on silti näkyvissä koko työstämisvaiheen ajan, jotta hyppy-yhteisö voi seurata työn etenemistä.
 
 Uusin versio on luettavissa aina osoitteessa https://www.gitbook.com/book/laskuvarjotoimikunta/hyppylentotoimintaohje/
 

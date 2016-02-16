@@ -6,7 +6,7 @@
 * [Lentokone](lentokone/index.md)
    * [Lentokelpoisuus](lentokone/hyppykoneenkelpoisuus.md)
    * [Kantokyky ja massakeskiö](lentokone/kantokyky)
-   * [Varustus](lentokone/varustus)
+   * [Varustus](lentokone/varustus.md)
 * [Vastuut](vastuut/index)
    * [Lentäjä](vastuut/lentaja)
    * [Hyppääjä](vastuut/hyppaaja)

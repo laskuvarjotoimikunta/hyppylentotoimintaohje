@@ -4,7 +4,7 @@
 * [Hyppääjille](hyppaajille.md)
 * [Määräysympäristö](maaraykset.md)
 * [Lentokone](lentokone/index.md)
-   * [Lentokelpoisuus](lentokone/hyppykoneen_kelpoisuus)
+   * [Lentokelpoisuus](lentokone/hyppykoneenkelpoisuus.md)
    * [Kantokyky ja massakeskiö](lentokone/kantokyky)
    * [Varustus](lentokone/varustus)
 * [Vastuut](vastuut/index)
